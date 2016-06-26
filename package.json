@@ -27,5 +27,9 @@
     "run-sequence": "1.1.5"
   },
   "name": "myionic2project",
-  "description": "MyIonic2Project: An Ionic project"
+  "description": "MyIonic2Project: An Ionic project",
+  "cordovaPlugins": [],
+  "cordovaPlatforms": [
+    "ios"
+  ]
 }
